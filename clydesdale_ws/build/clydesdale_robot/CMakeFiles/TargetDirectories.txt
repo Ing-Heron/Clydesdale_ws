@@ -1,9 +1,0 @@
-/home/heron/clydesdale_ws/build/clydesdale_robot/CMakeFiles/uninstall.dir
-/home/heron/clydesdale_ws/build/clydesdale_robot/CMakeFiles/clydesdale_robot_uninstall.dir
-/home/heron/clydesdale_ws/build/clydesdale_robot/CMakeFiles/test.dir
-/home/heron/clydesdale_ws/build/clydesdale_robot/CMakeFiles/edit_cache.dir
-/home/heron/clydesdale_ws/build/clydesdale_robot/CMakeFiles/rebuild_cache.dir
-/home/heron/clydesdale_ws/build/clydesdale_robot/CMakeFiles/list_install_components.dir
-/home/heron/clydesdale_ws/build/clydesdale_robot/CMakeFiles/install.dir
-/home/heron/clydesdale_ws/build/clydesdale_robot/CMakeFiles/install/local.dir
-/home/heron/clydesdale_ws/build/clydesdale_robot/CMakeFiles/install/strip.dir
