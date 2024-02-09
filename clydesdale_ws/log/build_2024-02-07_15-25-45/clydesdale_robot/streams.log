@@ -1,0 +1,31 @@
+[0.267s] Invoking command in '/home/heron/clydesdale_ws/build/clydesdale_robot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/iron /usr/bin/cmake --build /home/heron/clydesdale_ws/build/clydesdale_robot -- -j4 -l4
+[0.435s] Invoked command in '/home/heron/clydesdale_ws/build/clydesdale_robot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/iron /usr/bin/cmake --build /home/heron/clydesdale_ws/build/clydesdale_robot -- -j4 -l4
+[0.524s] Invoking command in '/home/heron/clydesdale_ws/build/clydesdale_robot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/iron /usr/bin/cmake --install /home/heron/clydesdale_ws/build/clydesdale_robot
+[0.548s] -- Install configuration: ""
+[0.548s] -- Up-to-date: /home/heron/clydesdale_ws/install/clydesdale_robot/share/clydesdale_robot/config
+[0.549s] -- Up-to-date: /home/heron/clydesdale_ws/install/clydesdale_robot/share/clydesdale_robot/config/config.rviz
+[0.549s] -- Up-to-date: /home/heron/clydesdale_ws/install/clydesdale_robot/share/clydesdale_robot/description
+[0.549s] -- Installing: /home/heron/clydesdale_ws/install/clydesdale_robot/share/clydesdale_robot/description/clydedale_robot_core.urdf.xacro
+[0.550s] -- Up-to-date: /home/heron/clydesdale_ws/install/clydesdale_robot/share/clydesdale_robot/description/clydesdale_robot.urdf.xacro
+[0.550s] -- Up-to-date: /home/heron/clydesdale_ws/install/clydesdale_robot/share/clydesdale_robot/description/gazebo_control.urdf.xacro
+[0.550s] -- Up-to-date: /home/heron/clydesdale_ws/install/clydesdale_robot/share/clydesdale_robot/description/inertial_macros.xacro
+[0.551s] -- Up-to-date: /home/heron/clydesdale_ws/install/clydesdale_robot/share/clydesdale_robot/launch
+[0.551s] -- Up-to-date: /home/heron/clydesdale_ws/install/clydesdale_robot/share/clydesdale_robot/launch/my_launch.py
+[0.551s] -- Up-to-date: /home/heron/clydesdale_ws/install/clydesdale_robot/share/clydesdale_robot/launch/gazebo_launch.py
+[0.552s] -- Up-to-date: /home/heron/clydesdale_ws/install/clydesdale_robot/share/clydesdale_robot/worlds
+[0.552s] -- Up-to-date: /home/heron/clydesdale_ws/install/clydesdale_robot/share/ament_index/resource_index/package_run_dependencies/clydesdale_robot
+[0.552s] -- Up-to-date: /home/heron/clydesdale_ws/install/clydesdale_robot/share/ament_index/resource_index/parent_prefix_path/clydesdale_robot
+[0.552s] -- Up-to-date: /home/heron/clydesdale_ws/install/clydesdale_robot/share/clydesdale_robot/environment/ament_prefix_path.sh
+[0.553s] -- Up-to-date: /home/heron/clydesdale_ws/install/clydesdale_robot/share/clydesdale_robot/environment/ament_prefix_path.dsv
+[0.553s] -- Up-to-date: /home/heron/clydesdale_ws/install/clydesdale_robot/share/clydesdale_robot/environment/path.sh
+[0.553s] -- Up-to-date: /home/heron/clydesdale_ws/install/clydesdale_robot/share/clydesdale_robot/environment/path.dsv
+[0.553s] -- Up-to-date: /home/heron/clydesdale_ws/install/clydesdale_robot/share/clydesdale_robot/local_setup.bash
+[0.554s] -- Up-to-date: /home/heron/clydesdale_ws/install/clydesdale_robot/share/clydesdale_robot/local_setup.sh
+[0.554s] -- Up-to-date: /home/heron/clydesdale_ws/install/clydesdale_robot/share/clydesdale_robot/local_setup.zsh
+[0.555s] -- Up-to-date: /home/heron/clydesdale_ws/install/clydesdale_robot/share/clydesdale_robot/local_setup.dsv
+[0.555s] -- Installing: /home/heron/clydesdale_ws/install/clydesdale_robot/share/clydesdale_robot/package.dsv
+[0.556s] -- Up-to-date: /home/heron/clydesdale_ws/install/clydesdale_robot/share/ament_index/resource_index/packages/clydesdale_robot
+[0.557s] -- Up-to-date: /home/heron/clydesdale_ws/install/clydesdale_robot/share/clydesdale_robot/cmake/clydesdale_robotConfig.cmake
+[0.558s] -- Up-to-date: /home/heron/clydesdale_ws/install/clydesdale_robot/share/clydesdale_robot/cmake/clydesdale_robotConfig-version.cmake
+[0.558s] -- Up-to-date: /home/heron/clydesdale_ws/install/clydesdale_robot/share/clydesdale_robot/package.xml
+[0.559s] Invoked command in '/home/heron/clydesdale_ws/build/clydesdale_robot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/iron /usr/bin/cmake --install /home/heron/clydesdale_ws/build/clydesdale_robot

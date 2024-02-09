@@ -1,0 +1,45 @@
+[0.256s] Invoking command in '/home/heron/clydesdale_ws/build/clydesdale_robot': CMAKE_PREFIX_PATH=/opt/ros/iron /usr/bin/cmake /home/heron/clydesdale_ws/src/clydesdale_robot -DCMAKE_INSTALL_PREFIX=/home/heron/clydesdale_ws/install/clydesdale_robot
+[1.724s] -- The C compiler identification is GNU 11.4.0
+[3.037s] -- The CXX compiler identification is GNU 11.4.0
+[3.216s] -- Detecting C compiler ABI info
+[3.666s] -- Detecting C compiler ABI info - done
+[3.726s] -- Check for working C compiler: /usr/bin/cc - skipped
+[3.727s] -- Detecting C compile features
+[3.746s] -- Detecting C compile features - done
+[3.775s] -- Detecting CXX compiler ABI info
+[4.153s] -- Detecting CXX compiler ABI info - done
+[4.217s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[4.219s] -- Detecting CXX compile features
+[4.222s] -- Detecting CXX compile features - done
+[4.362s] -- Found ament_cmake: 2.0.3 (/opt/ros/iron/share/ament_cmake/cmake)
+[5.060s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.12") found components: Interpreter 
+[5.585s] -- Found ament_lint_auto: 0.14.2 (/opt/ros/iron/share/ament_lint_auto/cmake)
+[6.014s] -- Added test 'flake8' to check Python code syntax and style conventions
+[6.015s] -- Configured 'flake8' exclude dirs and/or files: 
+[6.018s] -- Added test 'lint_cmake' to check CMake code style
+[6.035s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[6.059s] -- Added test 'xmllint' to check XML markup files
+[6.087s] -- Configuring done
+[6.106s] -- Generating done
+[6.112s] -- Build files have been written to: /home/heron/clydesdale_ws/build/clydesdale_robot
+[6.139s] Invoked command in '/home/heron/clydesdale_ws/build/clydesdale_robot' returned '0': CMAKE_PREFIX_PATH=/opt/ros/iron /usr/bin/cmake /home/heron/clydesdale_ws/src/clydesdale_robot -DCMAKE_INSTALL_PREFIX=/home/heron/clydesdale_ws/install/clydesdale_robot
+[6.150s] Invoking command in '/home/heron/clydesdale_ws/build/clydesdale_robot': CMAKE_PREFIX_PATH=/opt/ros/iron /usr/bin/cmake --build /home/heron/clydesdale_ws/build/clydesdale_robot -- -j4 -l4
+[6.302s] Invoked command in '/home/heron/clydesdale_ws/build/clydesdale_robot' returned '0': CMAKE_PREFIX_PATH=/opt/ros/iron /usr/bin/cmake --build /home/heron/clydesdale_ws/build/clydesdale_robot -- -j4 -l4
+[6.409s] Invoking command in '/home/heron/clydesdale_ws/build/clydesdale_robot': CMAKE_PREFIX_PATH=/opt/ros/iron /usr/bin/cmake --install /home/heron/clydesdale_ws/build/clydesdale_robot
+[6.438s] -- Install configuration: ""
+[6.438s] -- Installing: /home/heron/clydesdale_ws/install/clydesdale_robot/share/ament_index/resource_index/package_run_dependencies/clydesdale_robot
+[6.438s] -- Installing: /home/heron/clydesdale_ws/install/clydesdale_robot/share/ament_index/resource_index/parent_prefix_path/clydesdale_robot
+[6.439s] -- Installing: /home/heron/clydesdale_ws/install/clydesdale_robot/share/clydesdale_robot/environment/ament_prefix_path.sh
+[6.439s] -- Installing: /home/heron/clydesdale_ws/install/clydesdale_robot/share/clydesdale_robot/environment/ament_prefix_path.dsv
+[6.439s] -- Installing: /home/heron/clydesdale_ws/install/clydesdale_robot/share/clydesdale_robot/environment/path.sh
+[6.440s] -- Installing: /home/heron/clydesdale_ws/install/clydesdale_robot/share/clydesdale_robot/environment/path.dsv
+[6.440s] -- Installing: /home/heron/clydesdale_ws/install/clydesdale_robot/share/clydesdale_robot/local_setup.bash
+[6.440s] -- Installing: /home/heron/clydesdale_ws/install/clydesdale_robot/share/clydesdale_robot/local_setup.sh
+[6.441s] -- Installing: /home/heron/clydesdale_ws/install/clydesdale_robot/share/clydesdale_robot/local_setup.zsh
+[6.441s] -- Installing: /home/heron/clydesdale_ws/install/clydesdale_robot/share/clydesdale_robot/local_setup.dsv
+[6.441s] -- Installing: /home/heron/clydesdale_ws/install/clydesdale_robot/share/clydesdale_robot/package.dsv
+[6.442s] -- Installing: /home/heron/clydesdale_ws/install/clydesdale_robot/share/ament_index/resource_index/packages/clydesdale_robot
+[6.442s] -- Installing: /home/heron/clydesdale_ws/install/clydesdale_robot/share/clydesdale_robot/cmake/clydesdale_robotConfig.cmake
+[6.442s] -- Installing: /home/heron/clydesdale_ws/install/clydesdale_robot/share/clydesdale_robot/cmake/clydesdale_robotConfig-version.cmake
+[6.443s] -- Installing: /home/heron/clydesdale_ws/install/clydesdale_robot/share/clydesdale_robot/package.xml
+[6.450s] Invoked command in '/home/heron/clydesdale_ws/build/clydesdale_robot' returned '0': CMAKE_PREFIX_PATH=/opt/ros/iron /usr/bin/cmake --install /home/heron/clydesdale_ws/build/clydesdale_robot
